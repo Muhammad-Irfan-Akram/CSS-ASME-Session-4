@@ -1,5 +1,5 @@
 <style>
-            h2 {
+            #name{
                 color:blue;
                 border: dotted;
                 background-color:gray;
@@ -11,5 +11,4 @@
                  font-weight: 900;
                  background-color: lightcoral;
             }
-            ul {}
         </style>
