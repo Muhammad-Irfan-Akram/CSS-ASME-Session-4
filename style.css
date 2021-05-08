@@ -1,0 +1,15 @@
+<style>
+            h2 {
+                color:blue;
+                border: dotted;
+                background-color:gray;
+            }
+            
+            p {
+                 font-size: 24;
+                 border-bottom: solid;
+                 font-weight: 900;
+                 background-color: lightcoral;
+            }
+            ul {}
+        </style>
